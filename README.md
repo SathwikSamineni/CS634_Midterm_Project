@@ -191,7 +191,7 @@ This creates `notebooks/cs634.py`.
   Thin wrapper around `mlxtend.frequent_patterns.fpgrowth` + `association_rules` with sorting.
 
 * **`notebooks/cs634.ipynb`**
-  Part 6: reproducible mining in Jupyter with clean outputs and separate notebook-only output folder.
+  : reproducible mining in Jupyter with clean outputs and separate notebook-only output folder.
 
 * **`requirements.txt`**
   Dependencies for a clean environment.
