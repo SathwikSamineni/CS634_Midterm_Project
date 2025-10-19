@@ -11,7 +11,7 @@ samineni_sathwik_midtermproject/
 │   └─ sathwik_restaurant_bar_transactions.csv
 │
 ├─ notebooks/
-│   ├─ cs634.ipynb                          # Part 6: notebook (screenshots, demo)
+│   ├─ cs634.ipynb                          # Part 6: notebook
 │   ├─ cs634.py                             # auto-exported script version of ipynb
 │   └─ outputs/                             # notebook-only outputs (kept separate)
 │       └─ <dataset_stem>/
@@ -30,10 +30,10 @@ samineni_sathwik_midtermproject/
 │
 ├─ src/
 │   ├─ __init__.py                          # minimal to allow package-style imports
-│   ├─ main.py                              # interactive CLI runner (Part 4 end-to-end)
+│   ├─ main.py                              # interactive CLI runner
 │   ├─ brute_force.py                       # Brute Force: frequent sets + rule gen
-│   ├─ apriori.py                           # Apriori wrapper (optional use)
-│   └─ fp_growth.py                         # FP-Growth wrapper (optional use)
+│   ├─ apriori.py                           # Apriori wrapper 
+│   └─ fp_growth.py                         # FP-Growth wrapper
 │
 ├─ README.md                                # this file
 └─ requirements.txt                         # pinned dependencies
