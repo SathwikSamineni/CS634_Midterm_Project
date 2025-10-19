@@ -3,7 +3,7 @@
 ```
 samineni_sathwik_midtermproject/
 │
-├─ data/                                    # input datasets (CSV, deterministic)
+├─ data/                                    # input datasets
 │   ├─ apple_transactions.csv
 │   ├─ wholefoods_transactions.csv
 │   ├─ sathwik_pharmacy_transactions.csv
@@ -41,7 +41,7 @@ samineni_sathwik_midtermproject/
 
 > **Why two output locations?**
 >
-> * Running **scripts/CLI** saves to top-level `outputs/…` (for grading).
+> * Running **scripts/CLI** saves to top-level `outputs/…` 
 > * Running the **notebook** saves to `notebooks/outputs/…` so the two workflows never overwrite each other.
 
 ---
@@ -62,7 +62,7 @@ The required schema is:
 
 ## 3) Environment Setup
 
-Use **Python 3.9–3.12** (tested on 3.11/3.12).
+Use **Python 3.9–3.12**.
 
 ```bash
 # Windows PowerShell (recommended)
