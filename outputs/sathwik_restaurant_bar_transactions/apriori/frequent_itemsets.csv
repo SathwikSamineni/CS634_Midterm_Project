@@ -1,0 +1,5 @@
+support,itemsets
+0.22,frozenset({'Chicken 65'})
+0.1,frozenset({'Grilled Prawns'})
+0.1,frozenset({'Margarita'})
+0.18,frozenset({'Pasta Alfredo'})

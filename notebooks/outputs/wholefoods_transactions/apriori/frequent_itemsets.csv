@@ -1,0 +1,7 @@
+support,itemsets
+0.1,frozenset({'Avocados'})
+0.1,frozenset({'Greek Yogurt'})
+0.08,frozenset({'Multigrain Bread'})
+0.08,frozenset({'Organic Eggs (Dozen)'})
+0.1,frozenset({'Organic Pasta'})
+0.1,frozenset({'Quinoa (1 lb)'})

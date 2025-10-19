@@ -1,0 +1,11 @@
+support,itemsets
+0.04,frozenset({'Butter Chicken'})
+0.22,frozenset({'Chicken 65'})
+0.04,frozenset({'Chicken Biryani'})
+0.04,frozenset({'Chicken Burger'})
+0.04,frozenset({'Chicken Tikka Masala'})
+0.1,frozenset({'Grilled Prawns'})
+0.04,frozenset({'Loaded Nachos'})
+0.1,frozenset({'Margarita'})
+0.06,frozenset({'Paneer Tikka'})
+0.18,frozenset({'Pasta Alfredo'})

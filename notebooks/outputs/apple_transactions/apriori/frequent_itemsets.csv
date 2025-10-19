@@ -1,0 +1,7 @@
+support,itemsets
+0.1,frozenset({'AirPods Pro (2nd Gen)'})
+0.06,frozenset({'Apple Watch Series 10'})
+0.1,frozenset({'MacBook Air M3'})
+0.08,frozenset({'iPad Pro 13” M4'})
+0.06,frozenset({'iPhone 15 Pro'})
+0.12,frozenset({'iPhone 16'})

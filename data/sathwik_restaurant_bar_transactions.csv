@@ -1,0 +1,51 @@
+Transaction ID,Transaction
+T1,Chicken 65,Chicken Lollipop,Draft Beer Pint
+T2,Chicken 65,Chicken Lollipop,Whiskey Sour
+T3,Chicken 65,Chicken Lollipop,Margarita
+T4,Pasta Alfredo,Garlic Bread,Cheesecake Slice
+T5,Pasta Alfredo,Garlic Bread,Red Wine (Glass)
+T6,Pasta Alfredo,Garlic Bread,Draft Beer Pint
+T7,Chicken 65,Draft Beer Pint,Loaded Nachos
+T8,Chicken Lollipop,Draft Beer Pint,Loaded Nachos
+T9,Margarita,Loaded Nachos,Chocolate Lava Cake
+T10,Margarita,Loaded Nachos,Red Wine (Glass)
+T11,Grilled Prawns,Mashed Potatoes,Red Wine (Glass)
+T12,Grilled Prawns,Mashed Potatoes,Draft Beer Pint
+T13,Chicken 65,Chicken Lollipop,Garlic Bread
+T14,Pasta Alfredo,Garlic Bread,Cheesecake Slice
+T15,Pasta Alfredo,Garlic Bread,Draft Beer Pint
+T16,Chicken 65,Draft Beer Pint,Loaded Nachos
+T17,Chicken 65,Chicken Lollipop,Margarita
+T18,Margarita,Loaded Nachos,Cheesecake Slice
+T19,Pasta Alfredo,Garlic Bread,Red Wine (Glass)
+T20,Grilled Prawns,Mashed Potatoes,Red Wine (Glass)
+T21,Paneer Tikka,Veg Pulao,Fruit Custard
+T22,Butter Chicken,Butter Naan,Red Wine (Glass)
+T23,Chicken Biryani,Raita,Gulab Jamun
+T24,Chicken Wings,French Fries,Old Fashioned
+T25,Chicken Burger,French Fries,Mojito (Non-Alcoholic)
+T26,Paneer Slider,French Fries,Blue Lagoon
+T27,Chicken Tikka Masala,Garlic Naan,Gulab Jamun
+T28,Chicken Fried Rice,Chicken Lollipop,Gulab Jamun
+T29,Loaded Nachos,Cheese Quesadilla,Draft Beer Pint
+T30,Grilled Salmon,Mashed Potatoes,White Wine (Glass)
+T31,Chicken 65,Chicken Lollipop,Draft Beer Pint
+T32,Pasta Alfredo,Garlic Bread,Cheesecake Slice
+T33,Margarita,Loaded Nachos,Red Wine (Glass)
+T34,Chicken 65,Garlic Bread,Cheesecake Slice
+T35,Paneer Tikka,Garlic Naan,Ice Cream Sundae
+T36,Butter Chicken,Butter Naan,Gulab Jamun
+T37,Chicken Tenders,French Fries,Margarita
+T38,Grilled Prawns,White Wine (Glass),Cheesecake Slice
+T39,Chicken Burger,Loaded Nachos,Mojito (Non-Alcoholic)
+T40,Chicken 65,Chicken Lollipop,Garlic Bread
+T41,Pasta Alfredo,Garlic Bread,Draft Beer Pint
+T42,Margarita,Loaded Nachos,Chocolate Lava Cake
+T43,Grilled Chicken,Mashed Potatoes,Red Wine (Glass)
+T44,Paneer Tikka,Veg Pulao,Fruit Custard
+T45,Chicken Biryani,Raita,Ice Cream Sundae
+T46,Chicken 65,Chicken Lollipop,Margarita
+T47,Pasta Alfredo,Garlic Bread,Cheesecake Slice
+T48,Loaded Nachos,Draft Beer Pint,Old Fashioned
+T49,Grilled Prawns,White Wine (Glass),Chocolate Lava Cake
+T50,Chicken Tikka Masala,Butter Naan,Gulab Jamun

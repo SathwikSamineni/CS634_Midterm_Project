@@ -1,0 +1,13 @@
+support,itemsets
+0.04,frozenset({'Blood Pressure Monitor'})
+0.04,frozenset({'Eye Drops'})
+0.12,frozenset({'First Aid Kit'})
+0.04,frozenset({'Glucose Tablets'})
+0.06,frozenset({'Hand Sanitizer'})
+0.04,frozenset({'Hot Water Bag'})
+0.04,frozenset({'Ibuprofen 400mg'})
+0.1,frozenset({'Insulin Pen'})
+0.06,frozenset({'Pain Relief Spray'})
+0.18,frozenset({'Paracetamol Tablets'})
+0.04,frozenset({'Pregnancy Test Kit'})
+0.12,frozenset({'Vitamin C Chewables'})
